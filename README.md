@@ -27,3 +27,5 @@ To run this module in the terminal:
 
 ## GIF
 <img src="https://d26dzxoao6i3hh.cloudfront.net/items/0d3k1C3A133a0o053s3c/Screen%20Recording%202017-10-12%20at%2003.28%20PM.gif?v=627d7623?raw=true" >
+
+<img src="https://dr5mo5s7lqrtc.cloudfront.net/items/3x053B0m3Q0G1A2v2W44/Screen%20Recording%202017-10-24%20at%2012.20%20AM.gif" style="display: block;height: auto;width: 100%;"/>
