@@ -26,4 +26,4 @@ To run this module in the terminal:
 `node bamazonCustomer.js`
 
 ## GIF
-![Alt Text](https://cl.ly/1N3x262d1P3h/Screen%20Recording%202017-10-24%20at%2012.20%20AM.gif)
+<img src="https://d26dzxoao6i3hh.cloudfront.net/items/0d3k1C3A133a0o053s3c/Screen%20Recording%202017-10-12%20at%2003.28%20PM.gif?v=627d7623?raw=true" >
