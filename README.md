@@ -27,4 +27,4 @@ To run this module in the terminal:
 
 ## GIF
 
-<div class="cloudapp-embed" data-slug="1N3x262d1P3h"><a href="https://cl.ly/1N3x262d1P3h">Screen Recording 2017-10-24 at 12.20 AM.gif</a><script async src="https://embed.cl.ly/embedded.gz.js" charset="utf-8"></script></div>
+<a href="#"><img src="https://cl.ly/1N3x262d1P3h/Screen%20Recording%202017-10-24%20at%2012.20%20AM.gif" title="gif"</a>
