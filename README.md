@@ -26,4 +26,4 @@ To run this module in the terminal:
 `node bamazonCustomer.js`
 
 ## GIF
-[](https://cl.ly/1N3x262d1P3h/Screen%20Recording%202017-10-24%20at%2012.20%20AM.gif)
+[https://cl.ly/1N3x262d1P3h/Screen%20Recording%202017-10-24%20at%2012.20%20AM.gif](https://dr5mo5s7lqrtc.cloudfront.net/items/3x053B0m3Q0G1A2v2W44/Screen%20Recording%202017-10-24%20at%2012.20%20AM.gif?X-CloudApp-Visitor-Id=8d5ff2b82c37b1ef4952c710ff4980a6&v=dd338961)
