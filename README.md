@@ -1,6 +1,7 @@
 # bamazon
 
 This is bamazon. Bamazon, as it's name suggests, is a simple e-commerce app, or at least the backend for it.
+<img src="/assets/poster.gif">
 
 Bamazon uses some third-party node modules, has it's own modules, and connects to a mysql database to store and retrieve product and department information.
 
@@ -25,9 +26,5 @@ To run this module in the terminal:
 
 `node bamazonCustomer.js`
 
-## GIF
-<<<<<<< HEAD
-=======
 
-<a href="https://cl.ly/1N3x262d1P3h" target="_blank"><img src="https://dr5mo5s7lqrtc.cloudfront.net/items/3x053B0m3Q0G1A2v2W44/Screen%20Recording%202017-10-24%20at%2012.20%20AM.gif" style="display: block;height: auto;width: 100%;"/></a>
 >>>>>>> a9adff547332a9c5b4bc3615f76f59785e6d2c14
