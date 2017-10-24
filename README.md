@@ -26,3 +26,5 @@ To run this module in the terminal:
 `node bamazonCustomer.js`
 
 ## GIF
+
+https://cl.ly/1N3x262d1P3h/download/Screen%20Recording%202017-10-24%20at%2012.20%20AM.gif
