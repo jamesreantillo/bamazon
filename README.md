@@ -25,10 +25,6 @@ To run this module in the terminal:
 
 `node bamazonCustomer.js`
 
-<<<<<<< HEAD
-
->>>>>>> a9adff547332a9c5b4bc3615f76f59785e6d2c14
-=======
 ## GIF
 
 <img src="/assets/poster.gif">
